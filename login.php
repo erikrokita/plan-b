@@ -99,6 +99,7 @@ if ( !empty($_POST)) { // if $_POST filled then process the form
 					<a class="btn btn-primary" href="fr_per_create2.php">Join (New Volunteer)</a>
 				</div>
 				
+				<a href="https://github.com/erikrokita/plan-b">https://github.com/erikrokita/plan-b</a>
 				<p><strong>Dear All</strong>: Thanks so much for volunteering! The April 2017 FIRST Robotics event at SVSU will be awesome with your help!</p>
 				<p><strong>Dear NEW Volunteers</strong>: Please register by clicking the blue "Join" button above.</p>
 				<p><strong>Dear Registered Volunteers</strong>: To log in, use your email address and password, and click the green "sign in" button.</p>
